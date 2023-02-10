@@ -49,7 +49,7 @@ Ils vérifient que les différentes parties du code fonctionnent correctement en
 
 Les tests fonctionnels sont utilisés pour tester le comportement d'un système complet, souvent en se concentrant sur les scénarios d'utilisation.
 Ils vérifient que le système fonctionne correctement en entier, en prenant en compte les interactions entre les différentes parties du code.
----
+------
 Il est important de noter que les différents types de tests peuvent être utilisés en combinaison pour couvrir tous les aspects du code et garantir une qualité optimale.
 
 ## Outils pour les tests unitaires
