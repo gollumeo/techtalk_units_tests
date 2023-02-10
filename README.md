@@ -83,10 +83,10 @@ Vous pouvez également utiliser des outils pour surveiller les résultats des te
 ### A. Créer et exécuter des tests unitaires avec PHPUnit :
 
 Pour créer un test unitaire avec PHPUnit, vous pouvez suivre les étapes suivantes :
-[*] Installer PHPUnit en utilisant un gestionnaire de paquets tel que Composer.
-[*] Créer une classe de test dédiée pour votre code en étendant la classe PHPUnit_Framework_TestCase.
-[*] Écrire des méthodes de test pour vérifier les comportements spécifiques de votre code.
-[*] Exécuter les tests en utilisant la commande "phpunit" dans votre terminal.
+* Installer PHPUnit en utilisant un gestionnaire de paquets tel que Composer.
+* Créer une classe de test dédiée pour votre code en étendant la classe PHPUnit_Framework_TestCase.
+* Écrire des méthodes de test pour vérifier les comportements spécifiques de votre code.
+* Exécuter les tests en utilisant la commande "phpunit" dans votre terminal.
 
 ### B. Résultats des tests :
 
