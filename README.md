@@ -94,3 +94,6 @@ Après l'exécution des tests, vous verrez les résultats sous forme de rapport.
 Le rapport indique le nombre de tests exécutés, le nombre de tests qui ont réussi et le nombre de tests qui ont échoué.
 Si un test échoue, le rapport affichera une trace détaillée des erreurs pour vous aider à diagnostiquer et à résoudre les problèmes.
 En utilisant des tests unitaires régulièrement, vous pouvez vous assurer que votre code fonctionne comme prévu et détecter les erreurs rapidement avant la mise en production.
+
+![image](https://user-images.githubusercontent.com/109650634/218051291-b90aac0d-76e4-4301-8045-177349afb8d9.png)
+
